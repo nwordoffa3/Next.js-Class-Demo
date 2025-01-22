@@ -10,6 +10,9 @@ export default function Home() {
             <li>
               <Link href="/about/">Go to About Page</Link>
             </li>
+            <li>
+              <Link href="/contact/">Go to the Contact Page</Link>
+            </li>
           </ul>
         </nav>
       </div>
